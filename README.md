@@ -54,6 +54,14 @@ TechMart is a scalable MERN stack e-commerce application that provides an end-to
 
 ---
 
+### Demo Accounts
+
+- **Customer:** hamadqur447@gmail.com , Password: 1687716877
+- **Admin:** admin@gmail.com , Password:adminadmin
+- **Staff:** rider@gmail.com , Password:riderrider
+
+---
+
 ### 📂 User Interface (Frontend)
 
 ![Screenshot (576)](https://github.com/user-attachments/assets/499759cd-a7ed-40bc-a3ee-d8c4f76159d4)
